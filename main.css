@@ -1,0 +1,121 @@
+
+.ilk{
+    width: 215px;
+    height: 133px;  
+    display: inline;
+}
+.menu{
+    display:flex !important;
+    padding: 22px;
+    background: #e2e2e285;
+    margin: 5px;
+}
+.menu li{
+ list-style-type: none;
+    margin-left: 35px    
+}
+.menu a{
+    color: #06355db8;
+    text-decoration: none !important;
+
+    
+}
+a{
+    text-decoration: none !important;
+}
+
+.logo_photo img{
+    margin-left: 21px
+}
+.header{
+    background: white}
+.yuxari h1{
+    display: inline;
+    font-size: 83px;
+    font-family: initial;
+    font-style: oblique;
+    font-weight: inherit;
+}
+.main_girl{
+    margin-left: 115px
+}
+.men_photo{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+}
+
+.men img{
+    width: 230px
+}
+.icon img{
+    width: 33px
+}
+.men{
+    display: flex
+}
+.men h1 {
+    color: #4d8a8a
+}
+.mens{
+    display: flex
+}
+.mens h1 {
+    color: #4d8a8a
+}
+.mens img{
+    width: 230px
+}
+.icon img{
+    width: 33px;
+}
+.womens{
+    display: flex
+}
+.womens h1 {
+    color: #4d8a8a
+}
+.womens img{
+    width: 230px
+}
+.icon img{
+    width: 33px;
+}
+.men_photo{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 20%;
+}
+.babys{
+    display: flex
+}
+.babys h1 {
+    color: #4d8a8a
+}
+.babys img{
+    width: 230px
+}
+.icon img{
+    width: 33px;
+}
+.sports{
+    display: flex
+}
+.sports h1 {
+    color: #4d8a8a
+}
+.sports img{
+    width: 230px
+}
+.icon img{
+    width: 33px;
+}
+.footer p {
+    text-align: center;
+    padding: 5px;
+    font-size: 16px;
+    background: #00ffff1c;
+    font-family: initial;
+    margin: 36px;
+    padding: 31px;
+}
